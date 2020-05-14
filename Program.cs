@@ -1,5 +1,7 @@
 ﻿using System;
 
+// ready to merge
+
 namespace SimplePrj
 {
     interface IPrint
