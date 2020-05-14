@@ -9,7 +9,10 @@ namespace SimplePrj
 
     class Printer : IPrint
     {
-        // method missing here
+        public void Print()
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 
     class Program
